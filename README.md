@@ -1,21 +1,10 @@
 ### Hi there 👋
 
-<!--
-**llkenll/llkenll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Check out some of my projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| Name  | Description  | Link |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| Rose-Pickup     | A webapp that allows students to organize/join pick-up sports games| https://github.com/llkenll/Rose-Pickup |
+| Wordle Solver      | A bot that solves Wordle for you        | https://github.com/llkenll/wordleAI |
+| Sudoku-Solver | A bot that solves Sudokus for you on Sudoku.com | https://github.com/llkenll/Sudoku-Solver |
+| Desktop-Clean-Up-Bot | A bot that organizes your pdfs, images screenshots into designated folders | https://github.com/llkenll/Desktop-Clean-Up-Bot |
